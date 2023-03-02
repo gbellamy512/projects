@@ -13,9 +13,9 @@ This one is the most fun. The DRL agent observes a state consisting of down, yar
 ### All Projects
 [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems 3rd Edition](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975/ref=sr_1_1?crid=XNK7ONTN4KHR&keywords=hands+on+machine+learning+with+scikit-learn+and+tensorflow+3&qid=1677762985&sprefix=hands+on+machine+%2Caps%2C98&sr=8-1) by Aurélien Géron
 ### Deep Reinforcement Learning
-Nicholas Renotte's '[Building a Custom Environment for Deep Reinforcement Learning with OpenAI Gym and Python](https://www.youtube.com/watch?v=bD6V3rcr_54&list=PLgNJO2hghbmjlE6cuKMws2ejC54BTAaWV&index=5)' youtube video
-
 [Grokking Deep Reinforcement Learning 1st Edition](https://www.amazon.com/Grokking-Reinforcement-Learning-Miguel-Morales/dp/1617295450/ref=sr_1_8?crid=64IW2E7YY7BW&keywords=reinforcement+learning&qid=1677549970&sprefix=reinforc%2Caps%2C128&sr=8-8) by Miguel Morales
+
+Nicholas Renotte's '[Building a Custom Environment for Deep Reinforcement Learning with OpenAI Gym and Python](https://www.youtube.com/watch?v=bD6V3rcr_54&list=PLgNJO2hghbmjlE6cuKMws2ejC54BTAaWV&index=5)' youtube video
 
 ## Data
 ewma_df_2016_2022 - Contains Estimated Points Added (EPA) broken down by team and play type. For more information on EPA and how to source the data check out Ben Dominguez’s awesome '[Build an NFL win probability model (Super Bowl Sunday Edition)](https://www.fantasyfootballdatapros.com/blog/ff-analysis/6)' blog post.
