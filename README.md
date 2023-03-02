@@ -4,7 +4,7 @@
 This project walks through Exploratory Data Analysis, (light) Feature Engineering, and Feature Scaling and Transformation. It then trains a random forest (using randomized search) and elastic net regression models. Finally, it trains an ensemble classifier that uses random forest, logistic regression, and support vector machine models as its components. 
 
 ## deep_neural_network
-This project trains and compares different deep neural network classifiers using batch normalization, L1/L2 regularization, and dropout techniques.
+This project trains and compares the performance of deep neural network classifiers that use different regularization techniques (batch norm, L1/L2, and dropout).
 
 ## deep_reinforcement_learning
 This one is the most fun. It works but needs  cleanup to be more readable and further tuning to become more effective. The DRL model takes a down, yards to first, and yards to goal state and then choices an action (run, pass, or kick a field goal). The agent must balance trying to score with avoiding giving the ball to their opponent with good field position. Deep Q-Network (DQN), Fixed DQN, and Double DQN methodologies are tested.
