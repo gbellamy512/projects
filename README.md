@@ -7,7 +7,7 @@ This project walks through Exploratory Data Analysis, (light) Feature Engineerin
 This project trains and compares the performance of deep neural network classifiers that use different regularization techniques (batch norm, L1/L2, and dropout).
 
 ## deep_reinforcement_learning
-This one is the most fun. It works but needs  cleanup to be more readable and further tuning to become more effective. The DRL model takes a down, yards to first, and yards to goal state and then choices an action (run, pass, or kick a field goal). The agent must balance trying to score with avoiding giving the ball to their opponent with good field position. Deep Q-Network (DQN), Fixed DQN, and Double DQN methodologies are tested.
+This one is the most fun. The DRL agent observes a state consisting of down, yards to first, and yards to goal components then chooses to run, pass, or kick a field goal. Deep Q-Network (DQN), Fixed DQN, and Double DQN methodologies are tested. (Note: the project is functional but needs to be cleaned up to increase readability and further tuning to become more effective).
 
 ## References
 All projects rely heavily on ‘the Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems 3rd Edition’ - https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975/ref=sr_1_1?crid=BN1JBCP8AT2W&keywords=hands+on+machine+learning+with+scikit-learn+and+tensorflow+3&qid=1677549921&sprefix=hands+on+machine+le%2Caps%2C110&sr=8-1 
