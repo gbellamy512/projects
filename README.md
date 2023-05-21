@@ -7,7 +7,7 @@ This project walks through Exploratory Data Analysis, (light) Feature Engineerin
 This project trains and compares the performance of deep neural network classifiers that use different regularization techniques (batch norm, L1/L2, and dropout).
 
 ## deep_reinforcement_learning
-This one is the most fun. The DRL agent observes a state consisting of down, yards to first, and yards to goal components then chooses to run, pass, or kick a field goal. Deep Q-Network (DQN), Fixed DQN, and Double DQN methodologies are tested. (Note: the project is functional but needs to be cleaned up to increase readability and further tuning to become more effective).
+This one is the most fun. The DRL agent observes a state consisting of down, yards to first, and yards to goal components then chooses to run, pass, kick a field goal, or punt. Deep Q-Network (DQN), Proximal Policy Optimization (PPO) and Advantage Actor Critic A2C algorithm were tested. Stable Baselines3 was used to train the agents and weights and biases was used to monitor and evaluate the training runs.
 
 ## References
 ### All Projects
