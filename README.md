@@ -1,4 +1,4 @@
-# NFL Projects
+# Projects
 
 ## eda_regression_classification
 This project walks through Exploratory Data Analysis, (light) Feature Engineering, and Feature Scaling and Transformation. It then trains random forest (using randomized search) and elastic net regression models. Finally, it trains an ensemble classifier that uses random forest, logistic regression, and support vector machine models as its components. 
